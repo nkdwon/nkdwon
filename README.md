@@ -1,4 +1,4 @@
-### Oi! Eu sou Felipe Barros e seja muito Bem Vindo(a) ao meu repositório!👋
+> ###  Oi! Eu sou Felipe Barros e seja muito Bem Vindo(a) ao meu repositório!👋
 
 - 🔭 Atualmente trabalhando com: ...
 - 🌱 No momento estudando: Html/CSS e Java Script
@@ -9,7 +9,7 @@
 
 > Projetos
 
-+ Meu primeiro Site: https://valhalla-by-nkdwon.netlify.app/
+- Meu primeiro Site: https://valhalla-by-nkdwon.netlify.app/
 
 ##
 
