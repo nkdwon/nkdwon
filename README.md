@@ -29,7 +29,7 @@
 
 ##
     
->  ### Developing 
+>  ### Currently Developing and Learning 
 <div style="display: inline_block">
   <img align="center" alt="felps-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   <img align="center" alt="felps-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
