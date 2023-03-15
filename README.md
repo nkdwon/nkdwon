@@ -1,8 +1,8 @@
 > ##  Oi! Eu sou Felipe Barros e seja muito Bem Vindo(a) ao meu repositório!👋
 
 - 💻 Atualmente trabalhando com: ...
-- 📚 No momento estudando: HTML/CSS e JavaScript
-- 😄 Sempre em busca de mais conhecimento
+- 📚 Sempre em busca de mais conhecimento
+- 😄 Apaixonado em tecnologia e aprender
 
 ##
 
@@ -21,7 +21,7 @@
 
 ##
 
->  ### Main Skills  
+>  ### Main Skills  🚀
 <div style="display: inline_block">
   <img align="center" alt="felps-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="felps-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +31,7 @@
 
 ##
     
->  ### Currently Developing and Learning 
+>  ### Currently Developing and Learning ⚡
     
 <div style="display: inline_block">
     
@@ -47,7 +47,7 @@
     
 <div>
     
-> ### Social Media
+> ### Social Media 📱
     
    <a href = "https://www.instagram.com/felps_barros/"> 
        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
