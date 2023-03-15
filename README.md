@@ -2,8 +2,7 @@
 
 - 💻 Atualmente trabalhando com: ...
 - 📚 No momento estudando: HTML/CSS e JavaScript
-- 📫 Como me contatar: felipebarrosratton.almeida@gmail.com
-- 😄 Pronomes: ele/dele
+- 😄 Sempre em busca de mais conhecimento
 
 ##
 
