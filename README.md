@@ -1,7 +1,7 @@
 > ##  Oi! Eu sou Felipe Barros e seja muito Bem Vindo(a) ao meu repositório!👋
 
 - 💻 Atualmente trabalhando com: ...
-- 📚 No momento estudando: HTML/CSS e Java Script
+- 📚 No momento estudando: HTML/CSS e JavaScript
 - 📫 Como me contatar: felipebarrosratton.almeida@gmail.com
 - 😄 Pronomes: ele/dele
 
