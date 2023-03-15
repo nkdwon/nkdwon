@@ -43,3 +43,18 @@
   <img align="center" alt="felps-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
     
 </div>
+      
+## 
+    
+<div>
+    
+> ### Social Media
+    
+   <a href = "https://www.instagram.com/felps_barros/"> 
+       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
+   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"> 
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   </a>
+        
+</div>
