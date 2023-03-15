@@ -1,4 +1,4 @@
-> ###  Oi! Eu sou Felipe Barros e seja muito Bem Vindo(a) ao meu repositório!👋
+> ##  Oi! Eu sou Felipe Barros e seja muito Bem Vindo(a) ao meu repositório!👋
 
 - 💻 Atualmente trabalhando com: ...
 - 📚 No momento estudando: HTML/CSS e Java Script
@@ -7,7 +7,7 @@
 
 ##
 
-> Projetos
+> ### Projetos
 
 - Meu primeiro Site: https://valhalla-by-nkdwon.netlify.app/
 
@@ -19,12 +19,23 @@
 </div>
 
 ##
-  
+
+>  ### Main Skills  
 <div style="display: inline_block">
   <img align="center" alt="felps-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="felps-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="felps-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  <img align="center" alt="felps-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+
 ##
+    
+>  ### Developing 
+<div style="display: inline_block">
+  <img align="center" alt="felps-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
+  <img align="center" alt="felps-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="felps-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="felps-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+ 
+    
     
 </div>
