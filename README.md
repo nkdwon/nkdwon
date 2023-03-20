@@ -12,6 +12,7 @@
 - Cadastro de Cliente da EmpresaABC: https://github.com/nkdwon/EmpresaABC
 - Calculadora em PHP: https://github.com/nkdwon/Calculadora-em-PHP
 - Atividades JavaScript: https://github.com/nkdwon/Atividades-JavaScript
+<br><br> ⚠️ A parte de Projetos está em constante construção, devido que estou sempre aos poucos trazendo aqui os trabalhos que desenvolvo em sala de aula ⚠️ 
 
 ##
 
