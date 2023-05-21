@@ -8,13 +8,13 @@
 
 > ### Projetos
 
-- Meu primeiro Site: https://valhalla-by-nkdwon.netlify.app/
-- Cadastro de Cliente da EmpresaABC: https://github.com/nkdwon/EmpresaABC
-- Calculadora em PHP: https://github.com/nkdwon/Calculadora-em-PHP
-- Atividades JavaScript: https://github.com/nkdwon/Atividades-JavaScript
-- Banco em PHP: https://github.com/nkdwon/BancoPinklin
-- Login Responsivo Site de Festas: 
-- Minha Cápsula do Tempo do NLW-Spacetime feito pela Rocketseat:
+- [Meu primeiro Site](https://valhalla-by-nkdwon.netlify.app/)
+- [Cadastro de Cliente da EmpresaABC](https://github.com/nkdwon/EmpresaABC)
+- [Calculadora em PHP](https://github.com/nkdwon/Calculadora-em-PHP)
+- [Atividades JavaScript](https://github.com/nkdwon/Atividades-JavaScript)
+- [Banco em PHP](https://github.com/nkdwon/BancoPinklin)
+- [Login Responsivo Site de Festas]() 
+- [Minha Cápsula do Tempo do NLW-Spacetime feito pela Rocketseat]()
 <br><br> ⚠️ A parte de Projetos está em constante construção, devido que estou sempre aos poucos trazendo aqui os trabalhos que desenvolvo em sala de aula.
 
 ##
