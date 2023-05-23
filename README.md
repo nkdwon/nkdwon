@@ -8,7 +8,7 @@
 
 > ### Projetos
 
-- [Meu primeiro Site](https://valhalla-by-nkdwon.netlify.app/)
+- [Meu primeiro Site](https://github.com/nkdwon/Site-Valhalla)
 - [Cadastro de Cliente da EmpresaABC](https://github.com/nkdwon/EmpresaABC)
 - [Calculadora em PHP](https://github.com/nkdwon/Calculadora-em-PHP)
 - [Atividades JavaScript](https://github.com/nkdwon/Atividades-JavaScript)
