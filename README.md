@@ -1,6 +1,6 @@
 ##  Oi! Eu sou Felipe Barros e seja muito Bem Vindo(a) ao meu perfil!👋
 
-- 💻 Atualmente trabalhando com: ...
+- 💻 Atualmente estudando Ciência da Computação na PUC Minas
 - 📚 Sempre em busca de mais conhecimento
 - 😄 Apaixonado em tecnologia e aprender
 
@@ -20,14 +20,11 @@
 <br><br> ⚠️ A parte de Projetos está em constante construção, devido que estou sempre aos poucos trazendo aqui os trabalhos que desenvolvo.
 
 ##
-
-<p align="center">
-    <a href="https://github.com/nkdwon">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nkdwon&show_icons=true&theme=dark"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkdwon&layout=compact&theme=dark&langs_count=8"/>  
-    </a>
-</p>
-
+ 
+<div align="center">
+      <img width="49%" height="190em"" src="https://github-readme-stats.vercel.app/api?username=nkdwon&show_icons=true&count_private=true&hide_border=true&theme=dark"/> 
+      <img width="41%" height="190em"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkdwon&layout=compact&hide_border=true&theme=dark&langs_count=15"/>
+</div>
 
 ##
 
@@ -39,8 +36,7 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/nkdwon)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/nkdwon)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nkdwon)
-
-      
+  
 ##
     
 ### Currently Developing and Learning ⚡
@@ -54,13 +50,12 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/nkdwon)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/nkdwon)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/nkdwon)
-
-      
+     
 ## 
 
 ### Development Tools 🛠
 
-| IDEs              |  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)                                         
+| IDEs              |  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2D2D2D?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)                                         
 |-------------------|--------------------------------------------|
 
 
