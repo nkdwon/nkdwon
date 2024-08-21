@@ -63,7 +63,7 @@
 |-------------------|--------------------------------------------|
 
 
-| OS                |  ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624)   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
+| OS                | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624)  |
 |-------------------|--------------------------------------------|
 
 ##
