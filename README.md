@@ -6,7 +6,7 @@
 
 ##
 
-### Projetos
+### Projects
 
 - [Meu primeiro Site](https://github.com/nkdwon/Site-Valhalla)
 - [Portfólio React](https://github.com/nkdwon/PortfolioReact)
@@ -38,7 +38,7 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/nkdwon)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/nkdwon)
 
-- #### Controle de Versão
+- #### Version Management
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/nkdwon)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nkdwon)
   
@@ -56,11 +56,11 @@
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/nkdwon)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/nkdwon)
 
-- #### Banco de Dados
+- #### Database
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql)](https://github.com/nkdwon)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/nkdwon)
 
-- #### Ferramentas e Sistemas Operacionais
+- #### Operational Systems
 [![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624)](https://github.com/nkdwon)
      
 ## 
