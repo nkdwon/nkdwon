@@ -4,6 +4,7 @@
 - 💻 Atualmente estudando Ciência da Computação na PUC Minas
 - 📚 Sempre em busca de mais conhecimento
 - 😄 Apaixonado em tecnologia e aprender
+- 💚 Time Sangue Verde na L&CO 
 
 ##
 
@@ -36,12 +37,11 @@
 
 #### Frontend
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/nkdwon)
+[![Angular](https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/nkdwon)
 
 #### Backend
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/nkdwon)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/nkdwon)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/nkdwon)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/nkdwon)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/nkdwon)
 
 #### Database
