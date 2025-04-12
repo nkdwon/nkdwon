@@ -1,10 +1,10 @@
 
 ##  Oi! Eu sou Felipe Barros e seja muito Bem Vindo(a) ao meu perfil!👋
 
-- 💻 Atualmente estudando Ciência da Computação na PUC Minas
+- 💻 Atualmente cursando Ciência da Computação na PUC Minas
 - 📚 Sempre em busca de mais conhecimento
-- 😄 Apaixonado em tecnologia e aprender
-- 💚 Time Sangue Verde na L&CO 
+- 😄 Apaixonado em tecnologia e em aprender
+- 💚 Time Sangue Verde na L&CO e Mobi7
 
 ##
 
@@ -20,36 +20,33 @@
 ### Skills  🚀
 
 #### Frontend 
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/nkdwon)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/nkdwon)
+[![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark&perline=6&size=36)](https://github.com/nkdwon)
 
 #### Backend
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/nkdwon)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/nkdwon)
+[![My Skills](https://skillicons.dev/icons?i=java,c&theme=dark&perline=6&size=36)](https://github.com/nkdwon)
 
 #### Version Management
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/nkdwon)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nkdwon)
+[![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark&perline=6&size=36)](https://github.com/nkdwon)
   
 ##
 
 ### Currently Developing and Learning ⚡
 
 #### Frontend
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/nkdwon)
-[![Angular](https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/nkdwon)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,angular&theme=dark&perline=6&size=36)](https://github.com/nkdwon)
 
 #### Backend
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/nkdwon)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/nkdwon)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/nkdwon)
+[![My Skills](https://skillicons.dev/icons?i=java,c,nodejs&theme=dark&perline=6&size=36)](https://github.com/nkdwon)
 
 #### Database
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql)](https://github.com/nkdwon)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/nkdwon)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql&theme=dark&perline=6&)](https://github.com/nkdwon)
+
+#### Cloud
+[![My Skills](https://skillicons.dev/icons?i=aws,azure&theme=dark&perline=6&size=36)](https://github.com/nkdwon)
 
 #### Operational Systems
-[![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624)](https://github.com/nkdwon)
+[![My Skills](https://skillicons.dev/icons?i=linux&theme=dark&perline=6&size=36)](https://github.com/nkdwon)
+
      
 ## 
 
@@ -71,21 +68,17 @@
 ### Other Technologies I've Used 🗃
 
 #### Frontend
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/nkdwon)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/nkdwon)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,bootstrap&theme=dark&perline=6&size=36)](https://github.com/nkdwon)
 
 #### Backend
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/nkdwon)
+[![My Skills](https://skillicons.dev/icons?i=php&theme=dark&perline=6&size=36)](https://github.com/nkdwon)
     
 #### Mobile Development
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/nkdwon)
-[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/nkdwon)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,swift&theme=dark&perline=6&size=36)](https://github.com/nkdwon)
  
 ## 
     
 ### Social Media 📱
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felps_barros/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipebarrosratton/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
